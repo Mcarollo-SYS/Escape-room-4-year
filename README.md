@@ -1,7 +1,7 @@
 ## 2. Repository: `EscapeRoom1` (Videogioco Java 2D)
 
 ### 📌 About (Descrizione breve box GitHub)
-> 2D top-down puzzle game in Java featuring MVC architecture, multithreaded Producer-Consumer pattern, custom tile engine, and collision detection[cite: 4].
+> 2D top-down puzzle game in Java featuring MVC architecture, multithreaded Producer-Consumer pattern, custom tile engine, and collision detection.
 
 ---
 
